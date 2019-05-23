@@ -1918,6 +1918,13 @@ body {
 .cid-rri3o9o17j P {
   color: #767676;
 }
+.cid-rria5J5l2H {
+  padding-top: 135px;
+  padding-bottom: 135px;
+}
+.cid-rria5J5l2H P {
+  color: #767676;
+}
 .cid-rr0PPuuUxu {
   padding-top: 120px;
   padding-bottom: 15px;
@@ -2909,8 +2916,8 @@ body {
   text-align: left;
 }
 .cid-rn8rsOD3Ct {
-  padding-top: 0px;
-  padding-bottom: 0px;
+  padding-top: 120px;
+  padding-bottom: 120px;
   background-image: url("../../../assets/images/circuit-board-1240x746.jpg");
 }
 .cid-rn8rsOD3Ct .icons-media-container {
@@ -2938,4 +2945,32 @@ body {
 }
 .cid-rn8rsOD3Ct H1 {
   text-align: left;
+}
+.cid-rrigghuKJQ {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-image: url("../../../assets/images/circuit-board-1240x746.jpg");
+}
+.cid-rrigghuKJQ .icons-media-container {
+  display: flex;
+  -webkit-justify-content: center;
+  justify-content: center;
+  -webkit-flex-direction: row;
+  flex-direction: row;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+  padding-top: 4rem;
+}
+.cid-rrigghuKJQ .icons-media-container .mbr-iconfont {
+  font-size: 96px;
+  color: #ffffff;
+}
+.cid-rrigghuKJQ .icons-media-container .icon-block {
+  padding-bottom: 1rem;
+}
+.cid-rrigghuKJQ .mbr-text {
+  color: #ffffff;
+}
+.cid-rrigghuKJQ .card {
+  padding-bottom: 1.5rem;
 }
