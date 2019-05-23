@@ -2998,8 +2998,6 @@ body {
   color: #232323;
 }
 .cid-rriFQWrTCk {
-  padding-top: 120px;
-  padding-bottom: 120px;
   background-image: url("../../../assets/images/bike-drawing-2000x1500.jpg");
 }
 .cid-rriFQWrTCk .icons-media-container {
@@ -3024,4 +3022,113 @@ body {
 }
 .cid-rriFQWrTCk .card {
   padding-bottom: 1.5rem;
+}
+.cid-rriGW2dfaE {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #90b0ff;
+  background: linear-gradient(45deg, #90b0ff, #232323);
+}
+.cid-rriGW2dfaE .media-container-row {
+  flex-direction: row-reverse;
+  -webkit-flex-direction: row-reverse;
+}
+@media (min-width: 992px) {
+  .cid-rriGW2dfaE .mbr-figure {
+    padding-right: 4rem;
+    padding-right: 0;
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-rriGW2dfaE .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-rriGW2dfaE .mbr-text {
+    text-align: center;
+  }
+}
+.cid-rriHAttGp9 {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #149dcc;
+  background: linear-gradient(45deg, #149dcc, #232323);
+}
+.cid-rriHAttGp9 .media-container-row {
+  flex-direction: row-reverse;
+  -webkit-flex-direction: row-reverse;
+}
+@media (min-width: 992px) {
+  .cid-rriHAttGp9 .mbr-figure {
+    padding-right: 4rem;
+    padding-right: 0;
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-rriHAttGp9 .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-rriHAttGp9 .mbr-text {
+    text-align: center;
+  }
+}
+.cid-rriI2Xp0Rj {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #90b0ff;
+  background: linear-gradient(45deg, #90b0ff, #232323);
+}
+.cid-rriI2Xp0Rj .media-container-row {
+  flex-direction: row-reverse;
+  -webkit-flex-direction: row-reverse;
+}
+@media (min-width: 992px) {
+  .cid-rriI2Xp0Rj .mbr-figure {
+    padding-right: 4rem;
+    padding-right: 0;
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-rriI2Xp0Rj .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-rriI2Xp0Rj .mbr-text {
+    text-align: center;
+  }
+}
+.cid-rriIhT5VcV {
+  padding-top: 90px;
+  padding-bottom: 90px;
+}
+.cid-rriIhT5VcV .media-container-row {
+  flex-direction: row-reverse;
+  -webkit-flex-direction: row-reverse;
+}
+@media (min-width: 992px) {
+  .cid-rriIhT5VcV .mbr-figure {
+    padding-right: 4rem;
+    padding-right: 0;
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-rriIhT5VcV .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-rriIhT5VcV .mbr-text {
+    text-align: center;
+  }
+}
+.cid-rriJULLr8y H1 {
+  color: #cccccc;
 }
